@@ -1,3 +1,3 @@
-- 📖 MSc Physics of Data student, UNIPD  <br />
-- 🎓 BSc Physics graduate, UNIPD  <br />
-- 🚀 Mainly interested in Cosmology, Astrophysics, Machine Learning and Artificial Intelligence  <br />
+- 📖 MSc Physics of Data Graduate, UNIPD  <br />
+- 🎓 BSc Physics Graduate, UNIPD  <br />
+- 🚀 Mainly interested in Machine Learning, Artificial Intelligence and Cosmology  <br />
